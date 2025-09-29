@@ -1,0 +1,22 @@
+String Similarity Report
+========================
+
+String 1: amerkhan (Length: 8)
+String 2: salmankhan (Length: 10)
+
+Total Matches: 0
+Total Mismatches: 10
+Similarity: 0.00%
+
+Character-by-Character Comparison:
+----------------------------------
+Pos 1: a vs s → ✗
+Pos 2: m vs a → ✗
+Pos 3: e vs l → ✗
+Pos 4: r vs m → ✗
+Pos 5: k vs a → ✗
+Pos 6: h vs n → ✗
+Pos 7: a vs k → ✗
+Pos 8: n vs h → ✗
+Pos 9: - vs a → ✗
+Pos 10: - vs n → ✗

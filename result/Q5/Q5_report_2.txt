@@ -1,0 +1,21 @@
+String Similarity Report
+========================
+
+String 1: maazriyaz (Length: 9)
+String 2: asimriyaz (Length: 9)
+
+Total Matches: 5
+Total Mismatches: 4
+Similarity: 55.56%
+
+Character-by-Character Comparison:
+----------------------------------
+Pos 1: m vs a → ✗
+Pos 2: a vs s → ✗
+Pos 3: a vs i → ✗
+Pos 4: z vs m → ✗
+Pos 5: r vs r → ✓
+Pos 6: i vs i → ✓
+Pos 7: y vs y → ✓
+Pos 8: a vs a → ✓
+Pos 9: z vs z → ✓

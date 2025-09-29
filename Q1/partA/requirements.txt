@@ -1,0 +1,29 @@
+# Core Dependencies for Computer Vision & ML
+opencv-python==4.10.0.84
+numpy>=1.24.0
+mediapipe==0.10.9
+
+# YOLO and Ultralytics for Object Detection (Q4)
+ultralytics>=8.0.0
+
+# PIL/Pillow for Image Processing (Q7)
+Pillow>=9.5.0
+
+# Testing Framework
+pytest==8.3.3
+
+# PyTorch Dependencies for Deep Learning (Q7)
+# Windows CPU versions - remove if using GPU or different platform
+torch==2.4.1+cpu --find-links https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.19.1+cpu --find-links https://download.pytorch.org/whl/torch_stable.html
+
+# Alternative PyTorch installation (uncomment if above doesn't work):
+# torch>=2.0.0
+# torchvision>=0.15.0
+
+# Standard Library Extensions (used across multiple modules)
+pathlib2>=2.3.0; python_version < '3.4'
+
+# Additional utilities that may be needed
+setuptools>=65.0.0
+wheel>=0.37.0

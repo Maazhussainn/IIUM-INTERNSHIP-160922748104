@@ -1,0 +1,2 @@
+Misleading images (predicted as non-dog):
+011.jpg -> carousel (10.87%)\n023.jpg -> Egyptian cat (28.24%)\n026.jpg -> tabby (32.45%)\n018.jpg -> tiger shark (15.68%)\n022.jpg -> Egyptian cat (52.52%)\n027.jpg -> tiger cat (19.33%)\n020.jpg -> peacock (33.78%)\n021.jpg -> zebra (44.62%)\n024.jpg -> tabby (33.26%)\n025.jpg -> tiger cat (23.66%)\n014.jpg -> tiger (33.84%)\n
