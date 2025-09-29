@@ -1,28 +1,3 @@
-filename,prediction,probability
-011.jpg,carousel,0.1087
-003.jpg,golden retriever,0.3514
-023.jpg,Egyptian cat,0.2824
-015.jpg,Pomeranian,0.1347
-026.jpg,tabby,0.3245
-018.jpg,tiger shark,0.1568
-022.jpg,Egyptian cat,0.5252
-019.jpg,Tibetan mastiff,0.2806
-010.jpg,Rhodesian ridgeback,0.4718
-013.jpg,Afghan hound,0.2647
-017.jpg,Bedlington terrier,0.2195
-027.jpg,tiger cat,0.1933
-020.jpg,peacock,0.3378
-021.jpg,zebra,0.4462
-024.jpg,tabby,0.3326
-025.jpg,tiger cat,0.2366
-001.jpg,beagle,0.2501
-008.jpg,Labrador retriever,0.3337
-009.jpg,Labrador retriever,0.6064
-014.jpg,tiger,0.3384
-002.jpg,Labrador retriever,0.1974
-007.jpg,redbone,0.1377
-004.jpg,Labrador retriever,0.5145
-012.jpg,briard,0.3946
-006.jpg,golden retriever,0.3794
-005.jpg,golden retriever,0.3160
-016.jpg,Sussex spaniel,0.0814
+version https://git-lfs.github.com/spec/v1
+oid sha256:a301b7dd9ff282fbc88a977eee4bc0657ed24cbfb7c37fbff85ae894ba97bd50
+size 807
